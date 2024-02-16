@@ -1,0 +1,23 @@
+.background {
+    background-image: url('./images/background.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Full height */
+}
+
+
+
+.weatherCard {
+    border-radius: 20px;
+    background: linear-gradient(160deg, #4facfe 0%, #00f2fe 100%);
+    color: white;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+    margin-top: 20px;
+    padding: 20px;
+  }
+  
+  .weatherIcon {
+    font-size: 60px; 
+  }
+  
+  
